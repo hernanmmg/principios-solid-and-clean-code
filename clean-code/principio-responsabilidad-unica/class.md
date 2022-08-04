@@ -10,9 +10,3 @@
 - ¿Qué exactmente hace la clase?
 - ¿Cómo exactamente esta clase realiza cierta tarea?
 - ¿Hay algo específico sobre su ubicación?
-
--
-
-# funciones
-
-- Usar interfaces, destructuras parametros y no usar más de 3 parametros de entrada
