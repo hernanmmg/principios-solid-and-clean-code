@@ -1,0 +1,4 @@
+Código limpio
+Es aquel que se ha escrito con la intención de que otra persona
+(o tú mismo en el futuro) lo entienda. Simple y directo, debería
+leerse con la facilidad de un libro.
