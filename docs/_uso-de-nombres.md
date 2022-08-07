@@ -1,19 +1,19 @@
-## Nombre expresivos
+# Nombre expresivos
 
-# Mal
+### Mal
 const tx = 0.15
 const n = 12
 
-# Mejor
+## Mejor
 const tax = 0.15
 const nomberOfUnits = 12
 
-## Ausencia de información técnica en nombres
+# Ausencia de información técnica en nombres
 
-# Mal
+### Mal
 class AbstractUser {}
 interface UserInterface {}
 
-# Mejor
+## Mejor
 class User {}
 interface User {}

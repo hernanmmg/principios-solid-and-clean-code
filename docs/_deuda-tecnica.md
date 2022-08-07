@@ -1,4 +1,4 @@
-Falta de calidad en el código, que genera costos futuros.
+# Falta de calidad en el código, que genera costos futuros.
 
 - imprudente
 No hay tiempo, sólo copia y pega eso de nuevo
