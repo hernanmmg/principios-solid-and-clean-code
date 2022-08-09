@@ -9,12 +9,15 @@
 
 ## Singleton
 
-* [PRO] Garantiza
-  * una única instancia de la clase a lo largo de toda la aplicación.
+* [PRO] 
+  * Garantiza una única instancia de la clase a lo largo de toda la aplicación.
 
-* **CONS**
+* [CONS]
   * Vive en el contexto global
   * Dificil de testear
   * No sabemos donde fueron los cambios
   * Cualquiera lo puede modificar
 
+## Alto acoplamiento
+- Bajó acoplamiento: Cuán relacionadas o dependientes son dos clases o módulos entre sí
++ Buena cohesión: lo que la clase (o módulo) puede hacer
