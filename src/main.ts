@@ -1,4 +1,4 @@
-import './clean-code/07-tarea';
+import './clean-code/code-smells/02-low-coupling';
 import './style.css';
 
 const app = document.querySelector<HTMLDivElement>('#app')!
